@@ -38,3 +38,7 @@ next-env.d.ts
 *.swp
 *.swo
 
+# Logs
+logs/*.log
+!logs/.gitkeep
+
